@@ -5,8 +5,8 @@ As of April 2019, the next generation of mobile wireless communications is 5G. 5
 
 ### Table of Contents:
 
-[First topic: Overview of 5G](5G-Wireless-Tutorial/Overview.md)
+[First topic: Overview of 5G](Overview.md)
 
-[Second topic: Advantages of 5G](5G-Wireless-Tutorial/Advantages.md)
+[Second topic: Advantages of 5G](Advantages.md)
 
-[Last topic: Applications of 5G](5G-Wireless-Tutorial/Applications.md)
+[Last topic: Applications of 5G](Applications.md)
