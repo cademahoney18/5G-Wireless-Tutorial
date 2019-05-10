@@ -1,4 +1,4 @@
-#Applications of 5G
+# Applications of 5G
 
 5G technology will power a wide range of future industries from retail to education, transportation to entertainment, and smart homes to healthcare. Researchers predict the global, social, and economic impact of 5G will benefit entire economies and societies.
 
@@ -16,6 +16,8 @@ More applications we could look forward to include:
 
 5G is one of the most sophisticated wireless technologies we have ever developed so far - It will revolutionize the entire area that is using it. The best is yet to come in this new age of wireless technology.
 
-[Back to Advantages](5G/Advantages.md)
-[Back to Overview](5G/Overview.md)
-[Back to README](5G/README.md)
+[Back to Advantages](Advantages.md)
+
+[Back to Overview](Overview.md)
+
+[Back to README](README.md)
