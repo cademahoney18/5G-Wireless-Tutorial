@@ -4,6 +4,6 @@
 
 The first phase of 5G specifications is scheduled to complete in 2019, and the second phase is projected to be completed in 2020. But just as the market adapted to 4G, it will have to adapt to 5G. New 5G devices will be made that will support the new wireless system, along with being able to have 4G LTE capacity, in locations where 5G access is not available.
 
-[Next topic: Advantages](5G-Wireless-Tutorial/Advantages.md)
+[Next topic: Advantages](Advantages.md)
 
-[Back to README](5G-Wireless-Tutorial/README.md)
+[Back to README](README.md)
